@@ -12,8 +12,13 @@ Yongtao Ge, **Qiang Zhou**, Xinlong Wang, Chunhua Shen, Zhibin Wang, Hao Li. Poi
 **Qiang Zhou**, Chaohui Yu, Zhibin Wang, Qi Qian, Hao Li. Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework. (CVPR 2021)
 
 
+## Journal Papers
+
+**Qiang Zhou**, (Chaohui Yu. Point RCNN: An Angle-Free Framework for Rotated Object Detection)[https://www.mdpi.com/2072-4292/14/11/2605]. (Remote Sensing)
+
 
 ## 联系方式
 
 Email: jianchong.zq@alibaba-inc.com
+
 Phone: 13073696312
