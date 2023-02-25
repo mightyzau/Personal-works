@@ -5,7 +5,7 @@
 
 **Qiang Zhou**, Yuang Liu, Chaohui Yu, Jinliang Li, Zhibin Wang, Fan Wang. LMSeg: Language-guided Multi-dataset Segmentation (ICLR 2023)
 
-Yongtao Ge, **Qiang Zhou**, Xinlong Wang, Chunhua Shen, Zhibin Wang, Hao Li. Point-Teaching: Weakly Semi-Supervised Object Detection with Point Annotations. (AAAI 2023)
+Yongtao Ge, **Qiang Zhou**, Xinlong Wang, Chunhua Shen, Zhibin Wang, Hao Li. [Point-Teaching: Weakly Semi-Supervised Object Detection with Point Annotations](https://arxiv.org/abs/2206.00274). (AAAI 2023)
 
 **Qiang Zhou**, Chaohui Yu, Hao Luo, Zhibin Wang, Hao Li. [MimCo: Masked Image Modeling Pre-training with Contrastive Teacher](https://dl.acm.org/doi/abs/10.1145/3503161.3548173). (ACM MM 2022)
 
