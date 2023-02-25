@@ -14,6 +14,8 @@ Yongtao Ge, **Qiang Zhou**, Xinlong Wang, Chunhua Shen, Zhibin Wang, Hao Li. Poi
 
 ## Journal Papers
 
+**Qiang Zhou**, Chaohui Yu, Chunhua Shen, Zhibin Wang, Hao Li. [Object Detection Made Simpler by Eliminating Heuristic NMS](https://arxiv.org/abs/2101.11782) (IEEE Transactions on Multimedia, 2023)
+
 **Qiang Zhou**, Chaohui Yu. [Point RCNN: An Angle-Free Framework for Rotated Object Detection](https://www.mdpi.com/2072-4292/14/11/2605). (Remote Sensing, 2022)
 
 
